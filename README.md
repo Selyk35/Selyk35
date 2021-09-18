@@ -3,7 +3,13 @@
 - 🌱 I’m currently learning C# 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
-<h2>
+
+<h3 - 👋 Hi, I’m Selyk
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning C# 
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...</h3>
+
  <br/><br/>
  </em></p>
  
