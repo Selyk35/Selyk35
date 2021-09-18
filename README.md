@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Selyk
-- 👀 I'm interested in developer
+- 👀 I’m interested in software development
 - 🌱 I’m currently learning C# 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me Discord : Selyk#1552
