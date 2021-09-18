@@ -12,7 +12,7 @@ You can click the Preview link to take a look at your changes.
 <h1 align="center">Hi 👋, I'm ZoomX</h1>
 <h3 align="center">Istanbul, Turkey I'm in C #, C ++, .NET, HTML5, CSS, PHP, PYTHON I'm dealing with.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=zoomxr&label=Profile%20Views&color=d400ff&style=flat" alt="zoomxr" /> </p>
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zoomxr" alt="zoomxr" /></a> </p>
 
