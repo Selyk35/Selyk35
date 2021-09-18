@@ -4,11 +4,11 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-<h3 - 👋 Hi, I’m Selyk
+<h1 - 👋 Hi, I’m Selyk
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning C# 
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...</h3>
+- 📫 How to reach me ...</h1>
 
  <br/><br/>
  </em></p>
