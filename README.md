@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Selyk
 - 👀 I’m interested in software development
-- 🌱 I’m currently learning C# 
+- 🌱 I’m currently learning C++
 - 📫 How to reach me Discord : Selyk#1552
 
 <h2>
